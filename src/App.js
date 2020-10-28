@@ -12,7 +12,7 @@ const messages = defineMessages({
 const App = ({ intl }) => {
 
   const [activeMenuitem, setActiveMenuItem] = useState('Jakub Žák')
-  const [lang, setLang] = useState('us')
+  const [lang, setLang] = useState('sk')
 
 
   useEffect(() => {
