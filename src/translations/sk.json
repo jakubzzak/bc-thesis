@@ -1,0 +1,11 @@
+{
+  "web.annotation.description": "Z videa zosnímaného mobilom umiestneným na palubnej doske automobilu, vedieť detegovať a rozpoznať dopravné značky.",
+  "web.annotation.title": "Anotácia",
+  "web.author.advisor": "Školiteľ",
+  "web.author.author": "Autor",
+  "web.goal.description": "Z videa zosnímaného mobilom umiestneným na palubnej doske automobilu, vedieť detegovať a rozpoznať dopravné značky.",
+  "web.goal.title": "Cieľ",
+  "web.header.contact": "Kontakt",
+  "web.thesis.label": "Bakalárska práca",
+  "web.title": "Detekcia dopravných značiek"
+}

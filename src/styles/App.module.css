@@ -1,0 +1,37 @@
+.body {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+
+}
+
+body {
+    /*background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);*/
+    background: linear-gradient(-45deg, lightgoldenrodyellow, lightsalmon, lightcoral, lightblue);
+    background-size: 1000% 1000%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.stickyComputerSidebar {
+    z-index: 1000;
+    background: orange;
+    border: solid white 1px;
+    border-radius: 1em;
+}
