@@ -72,6 +72,11 @@ const App = ({ intl }) => {
               onClick={() => handleItemClick('Goal')}
             />
             <Menu.Item
+              name={intl.formatMessage({ id: 'web.sources.title' })}
+              active={activeMenuitem === 'Sources'}
+              onClick={() => handleItemClick('Sources')}
+            />
+            <Menu.Item
               name={intl.formatMessage(messages.contact)}
               active={activeMenuitem === 'Contact'}
               onClick={() => handleItemClick('Contact')}
