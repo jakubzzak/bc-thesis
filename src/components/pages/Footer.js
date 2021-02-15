@@ -7,9 +7,9 @@ const Footer = () => {
   return (
     <Grid id={'Contact'} textAlign={'center'} className={dummy.contact} inverted style={{ padding: '1em' }}>
       <Grid.Row centered>
-        <Grid.Column textAlign={'center'} style={{ color: '#ffffff' }}>
+        <Grid.Column textAlign={'center'} style={{ color: '#ffffff', padding: '2em' }}>
           <Icon size={'small'} inverted name={'copyright outline'}/>
-          2020 Jakub Žák
+          2020-2021 Jakub Žák
         </Grid.Column>
       </Grid.Row>
     </Grid>

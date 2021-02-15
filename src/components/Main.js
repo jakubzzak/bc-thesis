@@ -5,6 +5,7 @@ import Goal from './pages/Goal'
 import Sources from './pages/Sources'
 import Footer from './pages/Footer'
 import Author from './pages/Author'
+import Prototype from './pages/Prototype'
 
 
 const Main = () => {
@@ -15,6 +16,7 @@ const Main = () => {
       <Annotation/>
       <Goal/>
       <Sources/>
+      <Prototype/>
       <Author/>
       <Footer/>
     </div>

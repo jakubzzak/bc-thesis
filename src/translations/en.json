@@ -7,6 +7,8 @@
   "web.goal.description": "Traffic signs detection and recognition via mobile app from a phone located on a car dashboard in real time.",
   "web.goal.title": "Goal",
   "web.header.contact": "Contact",
+  "web.prototype.description": "Working repository can be found",
+  "web.prototype.title": "Prototype or embracing swift",
   "web.sources.description": "Pdf with all used sources to be seen",
   "web.sources.title": "Sources",
   "web.thesis.label": "Bachelor thesis",
